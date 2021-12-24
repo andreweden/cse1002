@@ -1,0 +1,7 @@
+H 2 O 
+N  H  4  N  O  3 
+Ag N O 3 
+QQ 2 YY 
+H Cl 
+QQ 2 YY 
+QQ 2

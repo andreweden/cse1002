@@ -1,0 +1,12 @@
+A_Mantee
+? A_Manatee Hugh_Manatee
+? Manfred_Manatee Hugh_Manatee
+Manfred_Manatee
+? Manfred_Manatee Hugh_Manatee
+Hugh_Manatee
+? Manfred_Manatee Hugh_Manatee
+? Hugh_Manatee Manfred_Manatee
+? Hugh_Manatee Hugh_Manatee
+B_Manatee
+? Hugh_Manatee B_Manatee
+? A_Mantee B_Manatee

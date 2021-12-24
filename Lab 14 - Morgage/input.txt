@@ -1,0 +1,9 @@
+100.00
+0.01
+balance
+BALANCE
+10.00
+20.00
+Balance
+100.00
+balance

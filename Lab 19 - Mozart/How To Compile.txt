@@ -1,0 +1,3 @@
+// Compile 
+javac -cp .:stdaudio.jar MozartWaltz.java
+java -cp .:stdaudio.jar -Dseed=123456 MozartWaltz.java

@@ -1,0 +1,5 @@
+Compiled from "Ugly.java"
+public class Ugly {
+  public Ugly();
+  public static void main(java.lang.String[]);
+}
